@@ -1,0 +1,27 @@
+{
+  "name": "testbackend",
+  "version": "1.0.0",
+  "description": "Repo for learning to create / use / connect the backend to the frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoQDS/testBackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NicoQDS/testBackEnd/issues"
+  },
+  "homepage": "https://github.com/NicoQDS/testBackEnd#readme",
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  }
+}
